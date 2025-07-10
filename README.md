@@ -11,23 +11,7 @@ Tools Used
 ---
 📂 Folder Structure
 Welcome Arushanth-os/
-├── bootloader.asm # Source code (Assembly)
-├── bootloader.bin # Compiled bootable binary
+bootloader.asm # Source code (Assembly)
+bootloader.bin # Compiled bootable binary
 
 
-How to Run
-
-1. Install Dependencies
-sudo apt update
-sudo apt install nasm qemu
-
-2. Clone the Repository
-git clone https://github.com/ArushanthVasanthakumar/Arushanth_OS.git
-cd Welcome Arushanth
-
-3. Assemble the Bootloader
-nasm -f bin bootloader.asm -o bootloader.bin
-
-4. Run It in QEMU
-qemu-system-x86_64 -drive format=raw,file=bootloader.bin
-hello, welcome Welcome Arushanth os
