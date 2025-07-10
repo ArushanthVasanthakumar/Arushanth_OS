@@ -24,7 +24,7 @@ sudo apt update
 sudo apt install nasm qemu
 
 2. Clone the Repository
-git clone https://github.com/yourusername/Welcome Arushanth-os.git
+git clone https://github.com/ArushanthVasanthakumar/Arushanth_OS.git
 cd Welcome Arushanth
 
 3. Assemble the Bootloader
