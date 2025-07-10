@@ -8,11 +8,8 @@ Tools Used
 - NASM (Netwide Assembler)
 - QEMU (Quick Emulator)
 
----
 📂 Folder Structure
-
 Welcome Arushanth-os/
-
 bootloader.asm # Source code (Assembly)
 bootloader.bin # Compiled bootable binary
 
